@@ -130,7 +130,7 @@ body {
 }
 
 .btn-login i {
-  margin-right: 8px;
+  margin-right: 12px;
 }
 
 .btn-login:hover {
@@ -148,3 +148,4 @@ body {
     border-radius: 0 0 12px 12px;
   }
 }
+
